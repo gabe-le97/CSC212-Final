@@ -1,8 +1,10 @@
 # CSC212-Final
-Final project for CSC 212: Applet with a Sortable Array Collection. 
+Final project for CSC 212: Applet with a Sortable Array Collection.
+***
 Functions include ->
-Random: creating a new collection. 
-Maximum: highlight the maximum array for removal. 
-Minimum: highlight the minimum array for removal. 
-Remove: delete the highlighted array and shift everything over. 
-Sort: repaint the collection in accending order. 
+
+*__Random__: creating a new collection. 
+*__Maximum__: highlight the maximum array for removal. 
+*__Minimum__: highlight the minimum array for removal. 
+*__Remove__: delete the highlighted array and shift everything over. 
+*__Sort__: repaint the collection in accending order. 
